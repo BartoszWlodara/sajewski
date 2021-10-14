@@ -21,6 +21,11 @@
             <img src="@/assets/images/partners/willart.jpeg" alt="andrzejsajewski_willart" loading="lazy">
         </a> 
     </div> 
+    <div class="partner_image">
+        <a href="https://www.facebook.com/pg/ArtPieniawa/posts/?ref=page_internal" target="blank">
+            <img src="@/assets/images/partners/artpieniawa.png" alt="andrzejsajewski_artpieniawa" loading="lazy">
+        </a> 
+    </div> 
     <!--
     <ul class="partner_list">
         <li>Tadeo_Art</li>
